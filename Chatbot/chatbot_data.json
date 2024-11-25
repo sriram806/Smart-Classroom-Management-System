@@ -1,0 +1,29 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Is anyone there?", "Good morning", "Good evening"],
+            "responses": ["Hello! How can I help you?", "Hi there! What do you need?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": ["Goodbye! Have a great day!", "See you later!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful"],
+            "responses": ["You're welcome!", "Happy to help!"]
+        },
+        {
+            "tag": "options",
+            "patterns": ["What can you do?", "Help", "Options"],
+            "responses": ["I can assist you with various queries. Just ask!"]
+        },
+        {
+            "tag": "fallback",
+            "patterns": ["*", "I don't understand", "Can you repeat that?"],
+            "responses": ["I'm sorry, I didn't get that. Can you please rephrase?", "Could you say that again?"]
+        }
+    ]
+}
