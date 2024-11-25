@@ -1,0 +1,46 @@
+Yeswanth, 2024-11-25 11:16:17, Present, faces\Yeswanth_frame_2_20241125_111617.jpg
+Sravan, 2024-11-25 11:16:19, Present, faces\Sravan_frame_4_20241125_111619.jpg
+Praveen Sai, 2024-11-25 11:16:21, Present, faces\Praveen Sai_frame_5_20241125_111621.jpg
+Naidu, 2024-11-25 11:16:32, Present, faces\Naidu_frame_14_20241125_111632.jpg
+Manikanta, 2024-11-25 11:17:29, Present, faces\Manikanta_frame_42_20241125_111729.jpg
+Yeswanth, 2024-11-25 11:32:26, Present, faces\Yeswanth_frame_1_20241125_113226.jpg
+Praveen Sai, 2024-11-25 11:32:30, Present, faces\Praveen Sai_frame_4_20241125_113230.jpg
+Naidu, 2024-11-25 11:32:31, Present, faces\Naidu_frame_5_20241125_113231.jpg
+Nikhil, 2024-11-25 11:32:32, Present, faces\Nikhil_frame_6_20241125_113232.jpg
+Sravan, 2024-11-25 11:32:35, Present, faces\Sravan_frame_9_20241125_113235.jpg
+Manikanta, 2024-11-25 11:32:40, Present, faces\Manikanta_frame_13_20241125_113240.jpg
+Hari, 2024-11-25 11:32:40, Absent, N/A
+Jairam, 2024-11-25 11:32:40, Absent, N/A
+Manasa, 2024-11-25 11:32:40, Absent, N/A
+Manikanta, 2024-11-25 11:32:40, Present, N/A
+Mayank, 2024-11-25 11:32:40, Absent, N/A
+Murali, 2024-11-25 11:32:40, Absent, N/A
+Naga Rajesh, 2024-11-25 11:32:40, Absent, N/A
+Naidu, 2024-11-25 11:32:40, Present, N/A
+Nikhil, 2024-11-25 11:32:40, Present, N/A
+Praveen Sai, 2024-11-25 11:32:40, Present, N/A
+Ragava, 2024-11-25 11:32:40, Absent, N/A
+Rajeev, 2024-11-25 11:32:40, Absent, N/A
+Santosh, 2024-11-25 11:32:40, Absent, N/A
+Sravan, 2024-11-25 11:32:40, Present, N/A
+V Lakshmi, 2024-11-25 11:32:40, Absent, N/A
+Yeswanth, 2024-11-25 11:32:40, Present, N/A
+Yeswanth, 2024-11-25 11:35:25, Present, faces\Yeswanth_frame_4_20241125_113525.jpg
+Praveen Sai, 2024-11-25 11:35:26, Present, faces\Praveen Sai_frame_5_20241125_113526.jpg
+Sravan, 2024-11-25 11:35:28, Present, faces\Sravan_frame_7_20241125_113528.jpg
+Hari, 2024-11-25 11:35:33, Absent, N/A
+Jairam, 2024-11-25 11:35:33, Absent, N/A
+Manasa, 2024-11-25 11:35:33, Absent, N/A
+Manikanta, 2024-11-25 11:35:33, Absent, N/A
+Mayank, 2024-11-25 11:35:33, Absent, N/A
+Murali, 2024-11-25 11:35:33, Absent, N/A
+Naga Rajesh, 2024-11-25 11:35:33, Absent, N/A
+Naidu, 2024-11-25 11:35:33, Absent, N/A
+Nikhil, 2024-11-25 11:35:33, Absent, N/A
+Praveen Sai, 2024-11-25 11:35:33, Present, N/A
+Ragava, 2024-11-25 11:35:33, Absent, N/A
+Rajeev, 2024-11-25 11:35:33, Absent, N/A
+Santosh, 2024-11-25 11:35:33, Absent, N/A
+Sravan, 2024-11-25 11:35:33, Present, N/A
+V Lakshmi, 2024-11-25 11:35:33, Absent, N/A
+Yeswanth, 2024-11-25 11:35:33, Present, N/A
