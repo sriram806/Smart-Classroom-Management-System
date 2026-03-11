@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.env.local
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.sqlite3
+db.sqlite3
+media/
+static/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
