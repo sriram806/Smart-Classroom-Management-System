@@ -21,41 +21,41 @@ function Dashboard() {
                             <div className="col-md-6 mb-4">
                                 <div className="card p-3 shadow-sm border-0"
                                     style={{
-                                        backgroundColor: '#17a2b8', 
-                                        color: 'white', 
+                                        backgroundColor: '#17a2b8',
+                                        color: 'white',
                                         borderRadius: '10px'
                                     }}>
                                     <h5 className="card-title" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>My Courses</h5>
                                     <p className="card-text" style={{ fontSize: '1rem' }}>View and manage the courses you have enrolled in.</p>
                                     <Link to="/my-courses" className="btn btn-light" style={{
-                                        backgroundColor: 'white', 
-                                        color: '#17a2b8', 
-                                        fontWeight: 'bold', 
-                                        padding: '10px 20px', 
-                                        borderRadius: '5px', 
+                                        backgroundColor: 'white',
+                                        color: '#17a2b8',
+                                        fontWeight: 'bold',
+                                        padding: '10px 20px',
+                                        borderRadius: '5px',
                                         transition: '0.3s'
                                     }}>
-                                        Go to My Courses
+                                        Go to My Course
                                     </Link>
                                 </div>
                             </div>
-                            
+
                             {/* Profile Settings Card */}
                             <div className="col-md-6 mb-4">
                                 <div className="card p-3 shadow-sm border-0"
                                     style={{
-                                        backgroundColor: '#28a745', 
-                                        color: 'white', 
+                                        backgroundColor: '#28a745',
+                                        color: 'white',
                                         borderRadius: '10px'
                                     }}>
                                     <h5 className="card-title" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Profile Settings</h5>
                                     <p className="card-text" style={{ fontSize: '1rem' }}>Edit your profile and change your account settings.</p>
                                     <Link to="/profile-setting" className="btn btn-light" style={{
-                                        backgroundColor: 'white', 
-                                        color: '#28a745', 
-                                        fontWeight: 'bold', 
-                                        padding: '10px 20px', 
-                                        borderRadius: '5px', 
+                                        backgroundColor: 'white',
+                                        color: '#28a745',
+                                        fontWeight: 'bold',
+                                        padding: '10px 20px',
+                                        borderRadius: '5px',
                                         transition: '0.3s'
                                     }}>
                                         Update Profile
